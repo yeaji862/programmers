@@ -37,4 +37,5 @@ class Solution6 { // 완주하지 못 한 선수
 
         return answer;
     }
+
 }
