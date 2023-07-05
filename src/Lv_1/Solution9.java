@@ -15,7 +15,7 @@ public class Solution9 { // 대충 만든 자판
                         }
                     }
 
-                    if(small == 101){
+                    if(small == 101){ // 키보드로 입력 할 수 없으면 -1 을 반환한다
                         answer[i] = -1;
                         break;
                     }else{
